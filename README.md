@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Thiago Henrique dos Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Henrique-Santos&theme=blue-green&show_icons=true)
+
 - 📚 Estou cursando **Análise e Desenvolvimento de Sistemas**, atualmente.
 - 🌱 Estou aprendendo **node.js**, atualmente.
 - 🔭 Estou prucurando **estágio** ou **vaga júnior** na área, atualmente.
