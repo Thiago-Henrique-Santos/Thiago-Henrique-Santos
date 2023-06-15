@@ -77,4 +77,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/Thiago-Henrique-Santos)
+![Snake animation](https://github.com/Thiago-Henrique-Santos/Thiago-Henrique-Santos/blob/output/github-contribution-grid-snake.svg)
