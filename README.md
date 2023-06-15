@@ -76,5 +76,3 @@
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Henrique-Santos&theme=blue-green&layout=compact">
   </a>
 </div>
-
-![Snake animation](https://github.com/Thiago-Henrique-Santos/Thiago-Henrique-Santos/blob/output/github-contribution-grid-snake.svg)
