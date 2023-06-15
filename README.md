@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Meu nome é Thiago Henrique dos Santos. 👋
 
 <!--
 **Thiago-Henrique-Santos/Thiago-Henrique-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 Estou cursando **Análise e Desenvolvimento de Sistemas**, atualmente.
+- 🌱 Estou aprendendo **node.js**, atualmente.
+- 🔭 Estou prucurando **estágio** ou **vaga júnior** na área, atualmente.
+- 📫 Entre em contato comigo: thiagohsantosths@gmail.com
