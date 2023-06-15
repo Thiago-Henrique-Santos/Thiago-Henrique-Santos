@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Thiago Henrique dos Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Henrique-Santos&theme=blue-green&show_icons=true)
+<div>
+  <a href="https://github.com/Thiago-Henrique-Santos">
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Thiago-Henrique-Santos&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Henrique-Santos&theme=blue-green&layout=compact">
+  </a>
+</div>
 
 - 📚 Estou cursando **Análise e Desenvolvimento de Sistemas**, atualmente.
 - 🌱 Estou aprendendo **node.js**, atualmente.
