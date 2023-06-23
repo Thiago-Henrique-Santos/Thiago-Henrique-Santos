@@ -35,7 +35,7 @@
   <img alt="ORM Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </div>
 
-### Fronted
+### Frontend
 
 <div style="display:inline-block;">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
