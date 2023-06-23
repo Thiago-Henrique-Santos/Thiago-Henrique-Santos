@@ -2,7 +2,7 @@
 
 - 📚 Estou cursando **Análise e Desenvolvimento de Sistemas**, atualmente.
 - 🌱 Estou aprendendo **node.js**, atualmente.
-- 🔭 Estou prucurando **estágio** ou **vaga júnior** na área, atualmente.
+- 🔭 Estou procurando **estágio** ou **vaga júnior** na área, atualmente.
 - 📫 Entre em contato comigo: thiagohsantosths@gmail.com
 
 ## Contato e social
