@@ -70,3 +70,17 @@
 ### Sistema Operacional
 
 <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
+
+<div>
+  <a href="https://github.com/Thiago-Henrique-Santos">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Thiago-Henrique-Santos&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Henrique-Santos&theme=blue-green&layout=compact">
+  </a>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Thiago-Henrique-Santos/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
