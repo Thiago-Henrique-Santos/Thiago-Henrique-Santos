@@ -9,7 +9,7 @@
   </div>
 
   <div>
-    <img src="img/avatar.jfif" height="150"/>
+    <img src="AvatarProgramador.jfif" height="150"/>
   </div>
 </div>
 
