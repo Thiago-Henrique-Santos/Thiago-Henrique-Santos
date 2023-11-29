@@ -1,17 +1,14 @@
-<div style="display: flex; flex-flow: row no-wrap; justify-content: space-between;">
-  <div>
-    ### Olá! Meu nome é Thiago Henrique dos Santos. 👋
-
-  - 📚 Estou cursando **Análise e Desenvolvimento de Sistemas**, atualmente.
-  - 🌱 Estou aprendendo **node.js**, atualmente.
-  - 🔭 Estou procurando **estágio** ou **vaga júnior** na área, atualmente.
-  - 📫 Entre em contato comigo: thiagohsantosths@gmail.com
-  </div>
-
-  <div>
-    <img src="AvatarProgramador.jfif" height="150"/>
-  </div>
+<div>
+  <h1>Olá! Meu nome é Thiago Henrique dos Santos. 👋</h1>
 </div>
+
+<img src="AvatarProgramador.jfif" height="150" align="right" style="display: flex"/>
+
+- 📚 Estou cursando **Análise e Desenvolvimento de Sistemas**, atualmente.
+- 🌱 Estou aprendendo **node.js**, atualmente.
+- 🔭 Estou procurando **estágio** ou **vaga júnior** na área, atualmente.
+- 📫 Entre em contato comigo: thiagohsantosths@gmail.com
+
 
 ## Contato e social
 
