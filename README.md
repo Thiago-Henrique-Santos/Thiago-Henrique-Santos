@@ -1,4 +1,6 @@
-### Olá! Meu nome é Thiago Henrique dos Santos. 👋
+<h1>Olá! Meu nome é Thiago Henrique dos Santos. 👋</h1>
+
+<img src="AvatarProgramador.jfif" height="150" align="right"/>
 
 - 📚 Estou cursando **Análise e Desenvolvimento de Sistemas**, atualmente.
 - 🌱 Estou aprendendo **node.js**, atualmente.
