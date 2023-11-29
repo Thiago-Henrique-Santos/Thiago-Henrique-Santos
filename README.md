@@ -72,7 +72,7 @@
 <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
 
 
-### GitHub Status
+## GitHub Status
 
 <div align="center">
   <a href="https://github.com/Thiago-Henrique-Santos">
