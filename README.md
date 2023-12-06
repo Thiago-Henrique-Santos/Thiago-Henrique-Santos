@@ -6,6 +6,7 @@
 - 🌱 Estou aprendendo **node.js**, atualmente.
 - 🔭 Estou procurando **estágio** ou **vaga júnior** na área, atualmente.
 - 📫 Entre em contato comigo: thiagohsantosths@gmail.com
+- **Inglês** avançado. Learning since 2015.
 
 
 ## Contato e social
