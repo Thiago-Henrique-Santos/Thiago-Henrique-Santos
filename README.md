@@ -4,7 +4,6 @@
 
 - 📚 Estou cursando **Análise e Desenvolvimento de Sistemas**, atualmente.
 - 🌱 Estou aprendendo **node.js**, atualmente.
-<!--- 🔭 Estou procurando **estágio** ou **vaga júnior** na área, atualmente.-->
 - 📫 Entre em contato comigo: thiagohsantosths@gmail.com
 - **Inglês** avançado. Learning since 2015.
 
@@ -87,3 +86,7 @@
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
+<!--- 
+• Guardando antigos componentes, talvez necessário novamente • 
+🔭 Estou procurando **estágio** ou **vaga júnior** na área, atualmente.
+-->
