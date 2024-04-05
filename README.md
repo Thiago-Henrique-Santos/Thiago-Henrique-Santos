@@ -79,13 +79,6 @@
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Henrique-Santos&theme=blue-green&layout=compact">
   </a>
 </div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Thiago-Henrique-Santos/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
 <!--- 
 • Guardando antigos componentes, talvez necessário novamente • 
 🔭 Estou procurando **estágio** ou **vaga júnior** na área, atualmente.
