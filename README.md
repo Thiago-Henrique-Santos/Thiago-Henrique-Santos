@@ -86,13 +86,6 @@
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago-Henrique-Santos/Thiago-Henrique-Santos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago-Henrique-Santos/Thiago-Henrique-Santos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thiago-Henrique-Santos/Thiago-Henrique-Santos/output/github-contribution-grid-snake.svg">
-</picture>
-
 <!--- 
 • Guardando antigos componentes, talvez necessário novamente • 
 🔭 Estou procurando **estágio** ou **vaga júnior** na área, atualmente.
